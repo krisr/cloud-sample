@@ -2,3 +2,8 @@ gems:
 - name: mislav-will_paginate
   source: http://gems.github.com
 - name: sinatra
+sites:
+  name: master
+  docroot: /
+  http: true
+  https: false
