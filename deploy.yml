@@ -3,7 +3,7 @@ gems:
   source: http://gems.github.com
 - name: sinatra
 sites:
-  name: master
+- name: master
   docroot: /
   http: true
   https: false
